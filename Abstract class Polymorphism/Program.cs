@@ -10,6 +10,7 @@ namespace Abstract_class_Polymorphism
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
