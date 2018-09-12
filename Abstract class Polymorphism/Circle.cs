@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract_class_Polymorphism
 {
-    class Program
+    class Circle : Shape
     {
-        static void Main(string[] args)
+        public override void Draw(float widht, float height)//5 sealed
         {
-            //Shape ji = new Shape(); //1
-            //Square b = new Square();
-
-            Console.ReadKey();
+            //base.Draw(widht, height);
         }
     }
 }

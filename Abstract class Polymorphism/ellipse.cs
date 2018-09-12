@@ -6,14 +6,11 @@ using System.Threading.Tasks;
 
 namespace Abstract_class_Polymorphism
 {
-    class Program
+    class Ellipse : Circle
     {
-        static void Main(string[] args)
+        public override void Draw(float widht, float height)
         {
-            //Shape ji = new Shape(); //1
-            //Square b = new Square();
-
-            Console.ReadKey();
+            Console.WriteLine("Like an egg");
         }
     }
 }
