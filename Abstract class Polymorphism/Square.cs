@@ -10,7 +10,6 @@ namespace Abstract_class_Polymorphism
     {
         //public override void Draw(float widht, float height)//2
         //{
-
         //}
     }
 }

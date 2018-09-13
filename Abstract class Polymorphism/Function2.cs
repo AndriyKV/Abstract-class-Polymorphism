@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace Abstract_class_Polymorphism
 {
-    //якщо в кожному меоді буде однакова реалізація це буде прикладом параметричного поліморфізму
     class Function2
     {
         public void Ui()
