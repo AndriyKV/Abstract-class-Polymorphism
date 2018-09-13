@@ -8,21 +8,21 @@ namespace Abstract_class_Polymorphism
 {
     abstract class Shape
     {
-        //private int i;
+        //    protected int i;
 
         //public float Width { get; set; }
-        //public float Height { get; set; }
+        //    public float Height { get; set; }
 
-        //public Shape(float width, float height)
-        //{
-        //    Width = width;
-        //    Height = height;
-        //}
+        //    public Shape(float width, float height)
+        //    {
+        //        Width = width;
+        //        Height = height;
+        //    }
 
-        //private void Output()
-        //{
-        //    Console.WriteLine("Private Implemented Method");
-        //}
+        //    private void Output()
+        //    {
+        //        Console.WriteLine("Private Implemented Method");
+        //    }
 
         public abstract void Draw(float widht, float height);
         //public virtual void Draw(float widht, float height)//4
