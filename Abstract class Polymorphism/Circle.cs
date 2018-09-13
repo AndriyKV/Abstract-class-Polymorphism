@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Abstract_class_Polymorphism
 {
     class Circle : Shape
-    {  
+    {
         //public override void Draw(float widht, float height)//5 sealed
         //{
         //    base.Draw(widht, height);
